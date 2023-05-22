@@ -37,24 +37,24 @@ params:
     - js/custom_01.js
     - js/custom_02.js
   utterances:
-    repo: username/username.github.io
+    repo: lilibenli/lilibenli.github.io
     issueTerm: title
     theme: github-light
 
 menu:
   nav:
-    - name: Home
+    - name: 做些什么
       url: /
       weight: 1
-    - name: Blog
+    - name: 笔记仓库
       url: /post/
       weight: 2
-    - name: Tags
-      url: /tags/
-      weight: 3
-    - name: RSS
-      url: /index.xml
+    - name: 每日一记
+      url: /diary
       weight: 5
+    - name: 归纳整理
+      url: /tags/
+      weight: 6
 
 markup:
   defaultMarkdownHandler: goldmark
