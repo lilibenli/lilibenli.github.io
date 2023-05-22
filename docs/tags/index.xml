@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cupper</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 22 May 2023 00:19:05 +0800</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>丽丽</title>
+      <link>https://example.com/tags/%E4%B8%BD%E4%B8%BD/</link>
+      <pubDate>Mon, 22 May 2023 00:19:05 +0800</pubDate>
+      
+      <guid>https://example.com/tags/%E4%B8%BD%E4%B8%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://example.com/tags/markdown/</link>
+      <pubDate>Mon, 22 May 2023 00:15:59 +0800</pubDate>
+      
+      <guid>https://example.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>第一次</title>
+      <link>https://example.com/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/</link>
+      <pubDate>Mon, 22 May 2023 00:15:59 +0800</pubDate>
+      
+      <guid>https://example.com/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
