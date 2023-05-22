@@ -1,0 +1,88 @@
+baseURL: https://example.com
+languageCode: zh-CN
+defaultContentLanguage: zh
+title: Cupper
+theme: cupper-hugo-theme
+googleAnalytics: UA-123456789-1
+disqusShortname: yourdiscussshortname
+enableGitInfo: false
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  description: 刘柴烧の笔记本
+  homeMetaContent: 刘柴烧の笔记本
+  footer: 俺是有底线的
+  dateFormat: 2006-01-02 15:04:05
+  codePenUser: lili
+  katex: true
+  hideHeaderLinks: false
+  search: true
+  showThemeSwitcher: true
+  defaultDarkTheme: false
+  moveFooterToHeader: false
+  # navTitleText: Cupper Theme
+  logoAlt: An alternative text description of the logo
+  customCss:
+    - css/custom_01.css
+    - css/custom_02.css
+  customJs:
+    - js/custom_01.js
+    - js/custom_02.js
+  utterances:
+    repo: username/username.github.io
+    issueTerm: title
+    theme: github-light
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Blog
+      url: /post/
+      weight: 2
+    - name: Tags
+      url: /tags/
+      weight: 3
+    - name: RSS
+      url: /index.xml
+      weight: 5
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
