@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>笔记仓库 on Cupper</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in 笔记仓库 on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 22 May 2023 00:19:05 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>丽丽</title>
+      <link>https://example.com/%E4%B8%BD%E4%B8%BD/</link>
+      <pubDate>Mon, 22 May 2023 00:19:05 +0800</pubDate>
+      
+      <guid>https://example.com/%E4%B8%BD%E4%B8%BD/</guid>
+      <description>大家好，我叫刘丽丽 </description>
+    </item>
+    
+    <item>
+      <title>第一篇</title>
+      <link>https://example.com/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
+      <pubDate>Mon, 22 May 2023 00:15:59 +0800</pubDate>
+      
+      <guid>https://example.com/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
+      <description>这是第一篇博客 </description>
+    </item>
+    
+  </channel>
+</rss>
