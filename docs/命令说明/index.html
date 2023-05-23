@@ -304,12 +304,19 @@
     
   <nav class="toc" aria-labelledby="toc-heading">
     <strong id="toc-heading"></strong>
-    <nav id="TableOfContents"></nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#新建文章">新建文章</a></li>
+    <li><a href="#文章分类">文章分类</a></li>
+    <li><a href="#本地预览">本地预览</a></li>
+    <li><a href="#文件生成">文件生成</a></li>
+  </ul>
+</nav>
   </nav>
 
 
 
-    <h1 id="新建文章">新建文章</h1>
+    <h2 id="新建文章">新建文章</h2>
 <p>
 
 <pre class="cmd">
@@ -320,10 +327,10 @@
 
 <code>post/name.md</code>，其中<code>post</code>表示的是新建文章在该目录下，一般情况下，我们生成的文章目录都是在<code>post</code>下。如果想要创建日记文件，需要使用<code>hugo new diary/2023-05-23.md</code>。
 其次，<code>name.md</code>就是新建文章的名称，主要修改<code>name</code>，后面的<code>.md</code>是文件后缀，不用变化。</p>
-<h1 id="文章分类">文章分类</h1>
+<h2 id="文章分类">文章分类</h2>
 <p>这里主要介绍文章分类的办法。在文章的开头，自动已经有了<code>tags</code>这个标记，我们可以在其中加上自己想要的分类标签，博客就能自动完成分类了。
 例如 <code>tags: [&quot;分类1&quot;,&quot;分类2&quot;]</code>；还有一个比较实用的标记是<code>toc: true</code>，使用这个标记之后，文章会自动生成大纲。</p>
-<h1 id="本地预览">本地预览</h1>
+<h2 id="本地预览">本地预览</h2>
 <p>
 
 <pre class="cmd">
@@ -333,7 +340,7 @@
 </pre>
 
 运行此命令，会在开启本地服务，直接访问<a href="http://localhost:1313">本机博客</a>，就可以预览到博客了，发现不好的地方可以及时做出修改。</p>
-<h1 id="文件生成">文件生成</h1>
+<h2 id="文件生成">文件生成</h2>
 <p>
 
 <pre class="cmd">
