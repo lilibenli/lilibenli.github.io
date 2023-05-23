@@ -2,15 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lilibenli.github.io/tags/</loc>
+    <lastmod>2023-05-23T22:37:05+08:00</lastmod>
+  </url><url>
+    <loc>https://lilibenli.github.io/post/</loc>
+    <lastmod>2023-05-23T22:37:05+08:00</lastmod>
+  </url><url>
+    <loc>https://lilibenli.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2023-05-23T22:37:05+08:00</lastmod>
+  </url><url>
+    <loc>https://lilibenli.github.io/tags/%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2023-05-23T22:37:05+08:00</lastmod>
+  </url><url>
+    <loc>https://lilibenli.github.io/%E5%91%BD%E4%BB%A4%E8%AF%B4%E6%98%8E/</loc>
+    <lastmod>2023-05-23T22:37:05+08:00</lastmod>
+  </url><url>
     <loc>https://lilibenli.github.io/</loc>
     <lastmod>2017-06-26T18:27:58+01:00</lastmod>
   </url><url>
     <loc>https://lilibenli.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lilibenli.github.io/tags/</loc>
-  </url><url>
-    <loc>https://lilibenli.github.io/post/</loc>
   </url><url>
     <loc>https://lilibenli.github.io/diary/</loc>
   </url>
