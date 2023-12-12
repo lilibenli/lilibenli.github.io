@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>经典语录 on Cupper</title>
+    <link>https://lilibenli.github.io/words/</link>
+    <description>Recent content in 经典语录 on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 12 Dec 2023 21:17:55 +0800</lastBuildDate><atom:link href="https://lilibenli.github.io/words/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>稻盛和夫</title>
+      <link>https://lilibenli.github.io/words/%E7%A8%BB%E7%9B%9B%E5%92%8C%E5%A4%AB/</link>
+      <pubDate>Tue, 12 Dec 2023 21:17:55 +0800</pubDate>
+      
+      <guid>https://lilibenli.github.io/words/%E7%A8%BB%E7%9B%9B%E5%92%8C%E5%A4%AB/</guid>
+      <description>稻盛和夫 心不唤物，物不至。&amp;mdash; 活法</description>
+    </item>
+    
+    <item>
+      <title>鲁迅</title>
+      <link>https://lilibenli.github.io/words/%E9%B2%81%E8%BF%85/</link>
+      <pubDate>Tue, 12 Dec 2023 21:16:06 +0800</pubDate>
+      
+      <guid>https://lilibenli.github.io/words/%E9%B2%81%E8%BF%85/</guid>
+      <description>鲁迅 院子里有两棵树，其中一棵是枣树；另外一棵也是枣树。&amp;mdash; 鲁迅</description>
+    </item>
+    
+  </channel>
+</rss>
