@@ -52,12 +52,15 @@ menu:
     - name: 每日一记
       url: /diary
       weight: 5
+    - name: 读书笔记
+      url: /book
+      weight: 6
     - name: 经典语录
       url: /words/
-      weight: 6
+      weight: 7
     - name: 归纳整理
       url: /tags/
-      weight: 7
+      weight: 8
 
 markup:
   defaultMarkdownHandler: goldmark
