@@ -6,7 +6,18 @@
     <description>Recent content in 读书笔记 on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 21 Dec 2023 22:05:16 +0800</lastBuildDate><atom:link href="https://lilibenli.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Dec 2023 00:03:49 +0800</lastBuildDate><atom:link href="https://lilibenli.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>首篇</title>
+      <link>https://lilibenli.github.io/book/%E9%A6%96%E7%AF%87/</link>
+      <pubDate>Fri, 22 Dec 2023 00:03:49 +0800</pubDate>
+      
+      <guid>https://lilibenli.github.io/book/%E9%A6%96%E7%AF%87/</guid>
+      <description>创建 hugo new content/book/name.md 标签 默认标签读书笔记，具体哪本书需要额外增加标签。
+内容 可以简单说一下书的章节，具体的内容也可以描述一下，自身的体悟或者感想如果有的话需要独立成章。
+尽量去感悟其中的方式方法，从有限的书本内容中获取额外的知识和体验，增加自身生命的厚度。</description>
+    </item>
+    
     <item>
       <title>2023-12-21</title>
       <link>https://lilibenli.github.io/diary/2023-12-21/</link>
